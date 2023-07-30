@@ -1,0 +1,4 @@
+name: KotlinTestPlugin
+version: '${version}'
+main: com.uomaep.kotlintestplugin.Main
+api-version: '1.18'

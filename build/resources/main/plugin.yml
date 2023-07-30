@@ -1,0 +1,4 @@
+name: KotlinTestPlugin
+version: '1.0-SNAPSHOP'
+main: com.uomaep.kotlintestplugin.Main
+api-version: '1.18'
